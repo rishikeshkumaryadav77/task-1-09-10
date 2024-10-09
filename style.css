@@ -1,0 +1,94 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  padding-bottom: 8px;
+}
+div{
+  background-color: aqua;
+  width: 400px;
+  text-align: center;
+  border-radius: 10px;
+  background-image: url('https://vidyapark.in/wp-content/uploads/2023/03/atria-institute-of-technology.jpg');
+  padding-bottom: 40px;
+}
+
+header{
+  padding: 10px;
+  padding-bottom:30px ;
+  padding-top: 30px;
+}
+img{
+  border-radius: 80px;
+  width: 100px;
+}
+
+.clg{
+  margin-top: 10px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.mail{
+  color: black;
+  background-color: white;
+  margin-top: 0px;
+  margin-top: 5px;
+  padding: 10px;
+  width: 300px;
+  margin: auto;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.name{
+  margin-top: 0px;
+  background-color: aqua;
+}
+span{
+  color: red;
+}
+
+.ph{
+  margin-top: 0px;
+  font-size: 18px;
+  background-color: white;
+  width: 300px;
+  margin: auto;
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+  margin-top:10px ;
+  margin-bottom: 20px;
+}
+
+.branch{
+  margin-left: 0px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: antiquewhite;
+}
+
+/* .span{
+  color: white;
+  font-size: 500px;
+  padding-top: 0px;
+  margin-top: 0px;
+} */
+
+.batch{
+  background-color: black;
+  color: white;
+  padding: 10px;
+  width: 300px;
+  margin: auto;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+
